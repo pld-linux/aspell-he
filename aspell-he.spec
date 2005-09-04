@@ -1,14 +1,14 @@
 Summary:	Hebrew dictionary for aspell
 Summary(pl):	S³ownik hebrajski dla aspella
 Name:		aspell-he
-Version:	0.8
+Version:	0.9
 %define	subv	0
 Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/he/aspell6-he-%{version}-%{subv}.tar.bz2
-# Source0-md5:	00b164ea82e16aff51b2cb8425292514
+# Source0-md5:	f453989e1df364af9479e893c16ac9d8
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
 Requires:	aspell >= 3:0.60
