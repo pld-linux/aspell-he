@@ -1,5 +1,5 @@
 Summary:	Hebrew dictionary for aspell
-Summary(pl):	S≥ownik hebrajski dla aspella
+Summary(pl.UTF-8):   S≈Çownik hebrajski dla aspella
 Name:		aspell-he
 Version:	1.0
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hebrew dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik hebrajski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik hebrajski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-he-%{version}-%{subv}
