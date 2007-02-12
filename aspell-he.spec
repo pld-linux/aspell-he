@@ -1,5 +1,5 @@
 Summary:	Hebrew dictionary for aspell
-Summary(pl.UTF-8):   Słownik hebrajski dla aspella
+Summary(pl.UTF-8):	Słownik hebrajski dla aspella
 Name:		aspell-he
 Version:	1.0
 %define	subv	0
